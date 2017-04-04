@@ -1,8 +1,10 @@
-import React, { Component, PropTypes } from 'react';
+// @flow
+import React, { Component } from 'react';
+import type { Children } from 'react';
 
 export default class App extends Component {
-  static propTypes = {
-    children: PropTypes.element.isRequired
+  props: {
+    children: Children
   };
 
   render() {
@@ -13,4 +15,3 @@ export default class App extends Component {
     );
   }
 }
-

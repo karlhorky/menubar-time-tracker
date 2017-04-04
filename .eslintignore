@@ -1,9 +1,5 @@
+flow-typed/
+app/dist/
+app/main.js
 node_modules
-build
-cache
-lib
-dist
-webpack.*.js
-server.js
-build.js
-init.js
+dll
