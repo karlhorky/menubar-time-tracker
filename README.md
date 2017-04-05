@@ -1,6 +1,6 @@
 # menubar-time-tracker
 
-> A toggle-button time tracker in your macOS menubar for Sage
+> A toggle-button time tracker in your macOS menubar for Sage DPW
 
 ![bildschirmfoto 2017-04-05 um 10 59 07](https://cloud.githubusercontent.com/assets/1935696/24697864/fc938620-19ee-11e7-9f08-33ff3f35cb2c.png)
 
