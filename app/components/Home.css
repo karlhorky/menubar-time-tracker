@@ -2,7 +2,15 @@
   position: absolute;
   top: 30%;
   left: 10px;
+  right: 10px;
   text-align: center;
+  background: white;
+}
+
+.container header {
+  display: block;
+  height: 70px;
+  background:  url(https://dpwx.auditreu.at/V8Pweb/proc/v8d/images/bg_start_logo_left.png) top left no-repeat, url(https://dpwx.auditreu.at/V8Pweb/proc/v8d/images/bg_start_logo_right.png) top right no-repeat;
 }
 
 .container h2 {
