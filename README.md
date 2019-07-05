@@ -1,3 +1,5 @@
+# ⚠️ This repo is **abandoned**, **unmaintained** and has **insecure** dependencies.
+
 # menubar-time-tracker
 
 > A toggle-button time tracker in your macOS menubar for Sage DPW
